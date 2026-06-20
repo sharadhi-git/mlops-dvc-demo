@@ -1,0 +1,6 @@
+[core]
+    remote = mlopswineremote
+['remote "wineremote"']
+    url = s3://mlops-demo-abhishek-dvc-bucket
+['remote "mlopswineremote"']
+    url = s3://mlops-sharadhi-dvc-bucket
